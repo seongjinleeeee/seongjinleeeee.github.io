@@ -11,7 +11,7 @@ I am currently the organizer of Professor Liu's group meeting website. In the gr
 
 ## Contact
 
-Hui Shen <br />
+Seong Jin Lee <br />
 Email: [slee7@unc.edu]<br />
 Address: B36 Hanes Hall, University of North Carolina, Chapel Hill, NC, 27514<br />
 
