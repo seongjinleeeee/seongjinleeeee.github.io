@@ -1,7 +1,7 @@
 title: Seong Jin
 description: Seong Jin Lee's webpage
 sourcecode: "https://github.com/seongjinleeeee/seongjinleeeee.github.io"
-# "sseongjinleeeee"
+# "seongjinleeeee"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["Makefile", "README.md"]
